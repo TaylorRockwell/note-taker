@@ -39,7 +39,7 @@
 
 Contact information for questions:
 
-* Email: 04-scones.card@newengood.com
-* Github: https://github.com/newengood
+* Email: taylor@newengood.com
+* Github: https://github.com/taylorisnewengood
   
   
